@@ -1,15 +1,13 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-    Senior Full Stack Developer, Blockchain Engineer 
+    Application Developer, Software Engineer
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Result-oriented%20Software%20Engineer;7%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45">
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2BF722&center=true&vCenter=true&random=false&width=1000&lines=Hi+There%2C+I+am+React+Native+developer.;I+have+been+working+for+the+last+2+years+as+a+software+engineer.;Proficient+in+JavaScript+and+Typescript;Building+cross-platform+applications+that+marry+functionality+with+aesthetics.)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/virusold0607/virusold0607/main/developing3.jpg" />
+  <img src="./react-native.gif" alt="React Native" />
 </p>
 
 <p align="center">
@@ -39,10 +37,6 @@
 ## Languages & Tools
 
 <code><img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="45" width="45" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
-<code><img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="45" width="45" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"></code>
-<code><img height="45" width="45" src="https://angular.io/assets/images/logos/angular/angular.svg"></code>
 <code><img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <code><img height="45" width="45" src="https://camo.githubusercontent.com/263164b2849cb40f0c6eaea2cf8406dda9d124aefce42ab5bd30f83d3133aef0/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d36342f6c61726176656c2d3232363031352e706e67" alt='laravel'></code>
